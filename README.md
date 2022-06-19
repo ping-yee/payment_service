@@ -1,3 +1,6 @@
+# payment_service
+Demo service in microservice architecture
+
 ## 指令
 
 ### 啟動開發環境
